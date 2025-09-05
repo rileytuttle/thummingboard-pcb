@@ -61106,13 +61106,13 @@
 			)
 		)
 	)
-	(footprint "thummingbird:thummingbird"
+	(footprint "thummingbirdlogo:thummingbird"
 		(layer "B.Cu")
 		(uuid "3ea1e844-c295-41c6-ac0c-fda5a27c0878")
 		(at 103.5 85.5 180)
 		(property "Reference" "G***"
 			(at 0 0 0)
-			(layer "F.SilkS")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "ca264e42-0bdd-4261-8b91-69292625c9c6")
 			(effects
@@ -61177,7 +61177,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "2d9beb57-fc33-4e0a-b982-b6869fc89e5a")
+			(uuid "78be990f-4678-4a43-bb3d-498d5fa5bf02")
 		)
 		(fp_poly
 			(pts
@@ -61446,7 +61446,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "b39962b3-1132-4b10-81a8-93690271429f")
+			(uuid "d90ba8df-34b4-48be-9c4c-805b502711d7")
 		)
 		(embedded_fonts no)
 	)
