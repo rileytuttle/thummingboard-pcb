@@ -2,3 +2,4 @@ gerber-files/*
 gerber-files.zip
 thumb-keyboard-backups/*
 *.lck
+_autosave*
