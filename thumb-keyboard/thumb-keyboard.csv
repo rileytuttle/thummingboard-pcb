@@ -1,0 +1,8 @@
+"Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"60","1N4148W","","","","Diode_SMD:D_SOD-123","https://www.vishay.com/docs/85748/1n4148w.pdf"
+"7","WS2812B","","","","1655:LED_1655","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"1","Conn_01x02_Socket","","","","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","~"
+"61","PTS526 SK15 SMTR2 LFS","","","","lowproswitch:SMT_FS","PTS526 SK15 SMTR2 LFS"
+"61","B3F-1000","","","","B3F_1000:SW_B3F-1000",""
+"1","SSSS811101","","","","SSSS811101:SW_SSSS811101",""
+"1","nice_nano","","","","nice-nano-kicad:nice_nano",""
